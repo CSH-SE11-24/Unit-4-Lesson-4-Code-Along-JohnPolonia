@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+p{
+  text-align: center;
+}
+body{
+  background-color: #ffff99
+}
+#red{
+  color:red;
+}
+#gruuu {
+  width: 80%;
+}
+.kingbob{
+  width: 30vw;
+}
